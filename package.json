@@ -1,0 +1,15 @@
+{
+	"name": "caw-queue",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/index.js",
+	"scripts": {},
+	"keywords": [],
+	"type": "module",
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.0.3",
+		"strike-discord-framework": "^1.4.13"
+	}
+}
